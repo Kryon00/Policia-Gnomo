@@ -12,6 +12,6 @@ E aí, minhas migas, to falando de um lance chamado "Polícia-Gnomo". Tipo, é u
 Assim, a gente mantém o nosso clã de gnomos seguro e protegido desse pessoal goblin, porque né, a gente só quer vibes boas e jardinagem aqui! 🌸🌼💖
 
 
-Gente, se vocês quiserem dar aquela força e fazer uma doaçãozinha, é só usar esse link aqui: https://ko-fi.com/diomedes369 ☕🌟 É tipo uma forma super legal de apoiar e ajudar a manter as coisas funcionando por aqui. Vocês são incríveis! 💖🚀  
+Gente, se vocês quiserem dar aquela força e fazer uma doaçãozinha, é só usar esse link aqui: [Doações - Polícia Gnomo](https://ko-fi.com/policiagnomo) ☕🌟 É tipo uma forma super legal de apoiar e ajudar a manter as coisas funcionando por aqui. Vocês são incríveis! 💖🚀  
 
 ![Polícia_Gnomo](./policia_gnomo.jpg)
