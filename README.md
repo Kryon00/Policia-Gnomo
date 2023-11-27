@@ -10,3 +10,5 @@ E aí, minhas migas, to falando de um lance chamado "Polícia-Gnomo". Tipo, é u
   - Coloca o bot como administrador do grupo. 🤖👑  
   - Mantém o programa rodando. 🚀💻  
 Assim, a gente mantém o nosso clã de gnomos seguro e protegido desse pessoal goblin, porque né, a gente só quer vibes boas e jardinagem aqui! 🌸🌼💖
+
+![Polícia_Gnomo](./policia_gnomo.jpg)
