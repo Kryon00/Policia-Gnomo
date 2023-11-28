@@ -3,7 +3,7 @@ from pyrogram import Client, enums
 from PIL import Image, ImageDraw, ImageFont
 from Crypto.Cipher import AES
 import secrets
-
+# Alterar o ID para o do amigo
 def pad(text):
     while len(text) % 16 != 0:
         text += ' '
